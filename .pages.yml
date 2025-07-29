@@ -20,6 +20,10 @@ content:
       - name: body
         label: Body
         type: rich-text
+  - name: about
+    label: About page
+    path: about.markdown
+    type: file
   - name: config
     label: Jekyll config
     path: _config.yml
