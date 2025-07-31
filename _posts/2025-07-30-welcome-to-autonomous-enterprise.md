@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 date: 2025-07-30
+author: djankov
 title: Welcome to Autonomous Enterprise
 ---
 Welcome to _Autonomous Enterprise_ – a new blog at the intersection of business strategy, emerging technology, and the transformative power of Artificial Intelligence. This space is built for business and technology leaders navigating the fast-evolving landscape of enterprise AI. As intelligent agents grow in capability and begin to reshape how value is created, operated, and delivered across industries, the goal of this blog is to serve as your strategic guide through the era of the agentic enterprise.
@@ -26,11 +27,9 @@ Over the next year, some of the topics I will be covering include:
 
 If these themes align with your strategic interests, I invite you to subscribe to the blog’s [RSS feed](https://autonomousenterprise.github.io/feed.xml) to receive the latest articles directly.
 
-A little about me – I am Dimitrije Jankovic, the author behind _Autonomous Enterprise_. I bring over 20 years of experience at the intersection of business, technology, and innovation. I have served as a senior technology and product strategy executive, advising CIOs and CTOs at firms across North America. More recently, my focus has been on researching and building Artificial Intelligence technology and autonomous agent systems. I hold an MBA degree from the Rotman School of Management at the University of Toronto and a computer engineering degree from University of Belgrade in Serbia.
+A little about me – I am Dimitrije Jankovic, the author behind _Autonomous Enterprise_. I spent over two decades of my career at the intersection of business, technology, and innovation. I have served as a senior technology and product strategy executive, advising CIOs and CTOs at firms across North America. More recently, my focus has been on researching and building Artificial Intelligence technology and autonomous agent systems. I hold an MBA degree from the Rotman School of Management at the University of Toronto and a computer engineering degree from University of Belgrade in Serbia.
 
 This blog is both a platform to share what I have learned – and a space to explore the unknowns ahead. My hope is that it will provoke thought, inspire action, and help leaders like you prepare for what I believe is the most significant reinvention of enterprise value creation in a generation.
-
-Thank you for visiting. I am glad you are here.
 
 —  
 **Dimitrije Jankovic**  

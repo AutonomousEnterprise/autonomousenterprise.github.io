@@ -26,6 +26,7 @@ baseurl: ""
 url: "https://autonomousenterprise.github.io"
 twitter_username: djankov
 github_username:  djankov
+show_excerpts: true
 
 # Build settings
 theme: minima
