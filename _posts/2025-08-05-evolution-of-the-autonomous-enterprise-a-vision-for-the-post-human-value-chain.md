@@ -47,4 +47,4 @@ The implications of this shift are profound. Leadership will increasingly focus 
 
 For business leaders, the questions are both urgent and existential. Where is your organization on the autonomy curve? Which value streams are ripe for agentic transformation? How will your workforce adapt as skills and roles shift? Are you investing in the digital architecture and governance capabilities required to manage AI-driven operations at scale? And how will you ensure that your enterprise not only survives but thrives in the era of autonomy?
 
-The autonomous enterprise is not a distant vision. It is an emerging reality. The organizations that embrace this transformation will not merely reduce costs or improve efficiency—they will redefine what it means to operate, compete, and create value in a post-human economy.
+The autonomous enterprise is not a distant vision. It is an emerging reality. The organizations that embrace this transformation will not merely reduce costs or improve efficiency. They will redefine what it means to operate, compete, and create value in a post-human economy.
