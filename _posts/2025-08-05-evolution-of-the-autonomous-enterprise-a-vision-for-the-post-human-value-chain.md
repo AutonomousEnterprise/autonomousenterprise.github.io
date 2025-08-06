@@ -15,15 +15,27 @@ This shift is not occurring in a vacuum. Several structural pressures are conver
 
 Unlike traditional AI systems that operate on pre-programmed rules, GenAI agents possess the ability to interpret context, interact across systems, and continuously improve through feedback. They can generate innovative ideas, optimize trade-offs, and collaborate with other agents or humans in open-ended environments. As a result, they are not merely productivity tools. They are becoming autonomous operators within the enterprise. This distinction marks the beginning of a new organizational paradigm, where value streams, i.e. end-to-end sequences of activities that deliver a specific outcome for a customer, are no longer managed by human teams, but by networks of intelligent agents.
 
+![](/media/EvolutionLevel0_small.png)
+
 The evolution toward this future unfolds in stages. Organizations progress along a maturity curve that begins with fully manual operations and culminates in self-directed, self-improving autonomous value chains. At Level 0, work is entirely manual. There are no intelligent systems involved; all decisions, coordination, and labor are performed by humans or by rigid software tools designed and operated manually. This is the pre-GenAI state of the enterprise, where operational efficiency is constrained by human capacity.
+
+![](/media/EvolutionLevel1_small.png)
 
 At Level 1, GenAI begins to augment the human workforce. This stage is marked by the emergence of co-pilot tools that help individuals perform their existing roles more effectively. A marketing professional might use GenAI to draft campaign messages or generate imagery, while a software engineer leverages AI to generate or refactor code. The organization at this stage sees gains in quality and speed, but the structure of work remains unchanged. Humans are still responsible for managing workflows, making decisions, and executing actions.
 
+![](/media/EvolutionLevel2_small.png)
+
 The introduction of Level 2 marks a significant change: business processes begin to incorporate rule-based workflows and basic automation. While humans still control the flow of work and retain final decision-making authority, certain tasks such as document processing, data categorization, or scheduling are delegated to machines. This results in increased efficiency and a modest reduction in routine workloads, although the human workforce is still essential to the overall operation.
+
+![](/media/EvolutionLevel3_small.png)
 
 With Level 3, the enterprise begins to introduce agentic AI systems that can take initiative within predefined boundaries. Agents start to make decisions, initiate actions, and manage parts of a workflow, with humans providing oversight or stepping in when judgment is required. This model introduces elasticity into workforce capacity, as AI can respond to changing business demands more rapidly than human teams. As a consequence, roles begin to evolve. Job functions are combined, redefined, or in some cases eliminated. Humans begin to transition from being operators to becoming supervisors, exception handlers, or AI system trainers.
 
+![](/media/EvolutionLevel4_small.png)
+
 At Level 4, entire business processes are executed by networks of interacting AI agents. Humans no longer guide the day-to-day flow of work but are responsible for defining policies, setting objectives, and configuring agent systems. These multi-agent ecosystems manage the full life cycle of a process, from initiation through resolution, interacting with other systems and agents as needed. The human role becomes more strategic and governance-oriented, focused on system design, oversight, and continuous improvement rather than execution.
+
+![](/media/EvolutionLevel5_small.png)
 
 Finally, Level 5 represents the full realization of the autonomous enterprise. Here, entire value streams operate independently, driven by self-improving agent networks. These systems identify needs, allocate resources, transact with suppliers and customers, adapt to changing market conditions, and optimize outcomes across time. Human involvement is limited to setting ethical parameters, defining strategic goals, and providing capital. The rest is managed end-to-end by autonomous agents operating within a governed, transparent framework.
 
