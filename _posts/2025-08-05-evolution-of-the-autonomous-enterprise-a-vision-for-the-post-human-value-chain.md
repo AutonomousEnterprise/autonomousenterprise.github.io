@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-08-09
 title: "Evolution of the Autonomous Enterprise: A Vision for the Post-Human
   Value Chain"
