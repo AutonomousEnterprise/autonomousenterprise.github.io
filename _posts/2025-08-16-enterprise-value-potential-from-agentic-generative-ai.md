@@ -4,9 +4,9 @@ date: 2025-08-23
 title: Enterprise Value Potential from Agentic Generative AI
 author: djankov
 ---
-On a humid August Monday morning in 2029, the CEO of a global retail giant received an alert. Not from an analyst or a regional manager, but from an AI system she had never met. The message was crisp: inventory in Southeast Asia would be depleted in 12 days, consumer sentiment was shifting toward eco-friendly packaging, and a new supplier in Vietnam could meet the demand within three weeks at a lower cost. No human had orchestrated this chain of insights. It was the work of an autonomous, generative AI agent – an entity capable of gathering intelligence, reasoning through trade-offs, and executing actions at machine speed. In that moment, the abstract promise of AI became a tangible competitive advantage, and the question for her, and for every other C-suite leader, was no longer whether AI could create value, but how quickly it could be embedded across the enterprise before rivals caught up.
+On a humid August Monday morning in 2029, the CEO of a global retail giant received an alert. Not from an analyst or a regional manager, but from an AI system she had never met. The message was crisp: “_inventory in Southeast Asia will be depleted in 12 days, consumer sentiment is shifting toward eco-friendly packaging, a new supplier has been contracted in Vietnam that will meet the demand within three weeks at a lower cost._” No human had orchestrated this chain of insights and actions. It was the work of an autonomous, generative AI agent – an entity capable of gathering intelligence, reasoning through trade-offs, and executing actions at machine speed. In that moment, the abstract promise of AI became a tangible competitive advantage, and the question for her, and for every other C-suite leader, was no longer whether AI could create value, but how quickly it could be embedded across the enterprise before rivals caught up.
 
-## Key Data Points
+## By the Numbers
 
 ### Global economic potential: $2.6T - $4.4T
 
