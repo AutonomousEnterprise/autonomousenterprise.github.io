@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-08-23
 title: Enterprise Value Potential from Agentic Generative AI
 author: djankov
