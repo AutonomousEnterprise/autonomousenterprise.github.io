@@ -8,43 +8,43 @@ On a humid August Monday morning in 2029, the CEO of a global retail giant recei
 
 ## By the Numbers
 
-### Global economic potential: $2.6T - $4.4T
+**Global economic potential: $2.6T - $4.4T**
 
 Annual global economic potential of generative AI; equivalent to the GDP of the UK.
 
 _“…generative AI could add the equivalent of $2.6 trillion to $4.4 trillion annually across the 63 use cases we analyzed…”_ [_McKinsey & Company_](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
 
-### Banking value: $340B
+**Banking value: $340B**
 
 Annual value potential in banking from automation, risk modeling, and customer engagement.
 
 “_Across the banking industry, the technology could deliver value… $200 billion to $340 billion annually_” [McKinsey & Company](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
 
-### Retail & CPG value: $660B
+**Retail & CPG value: $660B**
 
 Annual value potential in retail & CPG through supply chain optimization and personalization.
 
 “_In retail and consumer packaged goods, the potential impact is… $400 billion to $660 billion a year_” [McKinsey & Company](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
 
-### ROI potential: 10 – 15x ROI
+**ROI potential: 10 – 15x ROI**
 
 Potential return within three years for enterprises that scale GenAI across core functions.
 
 “_Companies can potentially achieve a return on investment of 10 to 15 times in less than three years_” [Boston Consulting Group](https://www.bcg.com/publications/2024/stairway-to-gen-ai-impact)
 
-### Concentration of value: 50 – 80% in top 5 use cases
+**Concentration of value: 50 – 80% in top 5 use cases**
 
 Share of total GenAI value captured by the top five use cases in each industry.
 
 _“…across industries, the top five GenAI use cases can create 50 to 80% of the overall value…_” [PwC](https://www.pwc.com/gx/en/issues/technology/path-to-generative-ai-value.html)
 
-### Labor productivity lift: 0.1 – 0.6%
+**Labor productivity lift: 0.1 – 0.6%**
 
 Annual boost to global labor productivity through automation and decision intelligence.
 
 “_Generative AI could enable labor productivity growth of 0.1 to 0.6 percent annually through 2040_” [McKinsey & Company](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
 
-### AI adoption vs. transformation: 86% vs. 4%
+**AI adoption vs. transformation: 86% vs. 4%**
 
 Percentage of businesses reporting AI adoption in 2024; but only 4% achieving transformative results.
 
