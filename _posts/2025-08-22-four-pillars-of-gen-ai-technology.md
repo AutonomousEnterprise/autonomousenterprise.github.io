@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-09-06
 title: Four Pillars of Gen AI Technology
 author: djankov
