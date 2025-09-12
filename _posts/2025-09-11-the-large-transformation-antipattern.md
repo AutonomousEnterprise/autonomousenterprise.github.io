@@ -30,6 +30,25 @@ Weak governance and planning exacerbate the situation. Program structures may lo
 
 The consequences of failure are far reaching. On the technology side, organizations are often left with partially implemented systems that must coexist with legacy platforms, creating greater complexity and technical debt. For the IT organization, failure damages credibility and morale, reinforcing perceptions of IT as a cost center incapable of enabling business change. For the broader business, the stakes are higher still. Financial losses can reach hundreds of millions. Strategic opportunities are missed, leaving firms exposed to more agile competitors. Botched go-lives disrupt operations, alienate customers, and erode trust with suppliers. In some cases, as with Target Canada or the TSB Bank migration, the fallout can alter the trajectory of an entire business. High-profile failures in government projects, such as HealthCare.gov or Queensland Health’s payroll system, reveal that even public institutions are not immune to reputational and political damage.
 
+|     |     |
+| --- | --- |
+| **Issue** | **Description** |
+| Poor Strategic Alignment | Treating the transformation as an IT project rather than a business-wide initiative causes loss of direction and executive support. |
+| Lack of Clear Vision | Absence of shared goals and stretch targets grounded in data creates confusion and unambitious outcomes. |
+| Inadequate Leadership and Sponsorship | Sponsors lack authority or engagement, leaving the program without decisive guidance and support. |
+| Unrealistic Expectations and Scope Creep | Overly optimistic business cases and uncontrolled addition of new requirements inflate costs and timelines. |
+| Ineffective Governance | Weak PMO, lack of empowered decision-makers, and fragmented leadership delay resolution and reduce accountability. |
+| Inadequate Change Management | Absence of strategies for adoption, training, and behavioral change leads to poor user acceptance. |
+| Change Resistance | Organizational inertia, cultural resistance, and “if it isn’t broke” mindsets undermine adoption. |
+| Ineffective Communication | Top-down, infrequent communication erodes trust and fails to prepare employees for new ways of working. |
+| Siloed Collaboration | Insufficient alignment between business and IT leads to incorrect prioritization, missing requirements, and poor integration. |
+| Poor Planning | Undefined scope, ambiguous business case, and weak resource planning undermine transformation efforts. |
+| Complex Interdependencies | Failure to map and manage dependencies across initiatives amplifies cascade risks and surprises. |
+| Data and Testing Issues | Poor quality data, skimped validation, and insufficient testing result in production defects and unrealistic expectations. |
+| Stakeholder Misalignment | Conflicting incentives, trust deficits, poor communication, and misaligned evaluation criteria hinder collaboration. |
+| Black Swan Risk | Skewed risks mean a small number of projects face extreme overruns, sometimes 200% over cost and 70% over schedule. |
+| Sector-Specific Risks | In public sector projects, cost overruns above 25% are common, with risk increasing by 4.2 percentage points per year of duration. |
+
 ## What Went Wrong at Lidl
 
 The Lidl case encapsulates many of these dynamics. The choice of SAP HANA was not inherently flawed. Indeed, it was a robust and widely adopted platform. The problems arose in how Lidl sought to deploy it. The retailer’s existing inventory management system was heavily customized and central to its operational model. Rather than adapting its processes to fit SAP’s standardized best practices, Lidl insisted on bending the software to replicate its idiosyncratic workflows. This decision set the stage for spiraling customization, mounting complexity, and soaring costs. It was a textbook violation of one of the cardinal principles of ERP implementation: adapt processes to the system, not the other way around.
