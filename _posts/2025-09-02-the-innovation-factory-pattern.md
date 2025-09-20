@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-09-20
 title: The Innovation Factory Pattern
 author: djankov
