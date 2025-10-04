@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2025-10-04
 title: The Large Transformation Antipattern
 author: djankov
