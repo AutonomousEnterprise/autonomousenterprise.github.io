@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-10-18
 title: "New IT: the Changing Role of the IT Organization"
 author: djankov
