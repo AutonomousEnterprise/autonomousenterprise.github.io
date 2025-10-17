@@ -230,7 +230,7 @@ Higher customer engagement, improved savings rates, and retention uplift.
 **Data & Tech**  
 Categorized transaction data, behavioral analytics, LLM insights, secure notification infrastructure.
 
-#### Middle Office: Risk, Credit, Compliance & Fraud
+## Middle Office: Risk, Credit, Compliance & Fraud
 
 ### **Agentic Credit Underwriting Assistant**
 
@@ -316,7 +316,7 @@ Higher quality stress testing and faster scenario creation.
 **Data & Tech**  
 Macroeconomic series, portfolio exposures, scenario libraries, LLM for scenario narratives.
 
-##### Fraud Investigator Assistant (Case Summaries)
+### **Fraud Investigator Assistant (Case Summaries)**
 
 **Description**  
 Agent reads case files, composes concise summaries, recommends follow-ups, and prepares evidence packets for law enforcement when needed.
@@ -330,7 +330,7 @@ Faster investigator throughput and improved case quality.
 **Data & Tech**  
 Case management systems, transaction graphs, communications logs, LLM with strict PII controls.
 
-##### Credit Portfolio Monitoring Agent (Early Warning System)
+### **Credit Portfolio Monitoring Agent (Early Warning System)**
 
 **Description**  
 Continuously monitors borrowers and industry signals; autonomously creates alerts and proposed remedial actions (e.g., covenant amendment suggestions).
@@ -344,7 +344,7 @@ Lower default rates through earlier remediation actions.
 **Data & Tech**  
 Loan book data, borrower financials, market indicators, sentiment feeds, risk models, retrieval-augmented generation (RAG).
 
-##### Compliance Chatbot for Employees (Policy Q&A)
+### **Compliance Chatbot for Employees (Policy Q&A)**
 
 **Description**  
 Internal assistant that answers policy and procedure questions in natural language and routes complex queries to compliance staff.
@@ -358,7 +358,7 @@ Reduced helpdesk tickets and faster employee onboarding.
 **Data & Tech**  
 Policy documents, corporate intranet, access controls, LLM with retrieval and citation of policy sections.
 
-##### Agentic AI Financial Crime Investigator
+### **Agentic AI Financial Crime Investigator**
 
 **Description**  
 AI agent analyzes transaction flows, maps entity relationships, recommends investigation steps, and drafts SARs for suspicious transactions while triaging cases for human analysts.
@@ -372,7 +372,7 @@ Up to 30% reduction in fraud losses and investigation time; greater detection ac
 **Data & Tech**  
 Transaction networks, behavioral anomalies, sanctions lists, explainable LLM, orchestration layer.
 
-##### Autonomous Regulatory Monitoring Agent
+### **Autonomous Regulatory Monitoring Agent**
 
 **Description**  
 Agent continuously monitors regulatory feeds, parses new circulars, and proactively updates internal policies and compliance checklists, flagging system gaps and required changes.
@@ -386,9 +386,9 @@ Faster regulatory change adoption, reduced risk of non-compliance, and lower com
 **Data & Tech**  
 API-connected regulatory sources, policy repositories, audit logs, LLM fine-tuned for legal and compliance text.
 
-#### Back Office & Operations
+## Back Office & Operations
 
-##### Payment Exception Resolution Agent
+### **Payment Exception Resolution Agent**
 
 **Description**  
 Agent triages failed payments, determines root cause, drafts communications to counterparties, and initiates corrective actions.
@@ -402,7 +402,7 @@ Faster settlement, fewer manual hours, and lower penalty costs.
 **Data & Tech**  
 Payments ledger, ISO messaging, settlement systems, LLM for composing communications, workflow automation.
 
-##### Document Processing & Auto-Filing Agent
+### **Document Processing & Auto-Filing Agent**
 
 **Description**  
 End-to-end document ingestion including OCR, extraction, classification, filing, and generation of human-friendly summaries.
@@ -416,7 +416,7 @@ Significant manual cost savings in back-office processing; major productivity ga
 **Data & Tech**  
 Document corpus, OCR/vision models, LLM for summaries, enterprise document management (EDM) systems.
 
-##### Reconciliation Agent (Account / Trade Recs)
+### **Reconciliation Agent (Account / Trade Recs)**
 
 **Description**  
 Agent matches records across systems, explains mismatches in plain language, and proposes fixes or journal entries.
@@ -430,7 +430,7 @@ Faster month-end close and reduced reconciliation headcount.
 **Data & Tech**  
 Ledgers, trade repositories, matching algorithms, LLM for exception narratives.
 
-##### SLA Monitoring & Incident Response Agent
+### **SLA Monitoring & Incident Response Agent**
 
 **Description**  
 Agent monitors operations SLAs, triages incidents, suggests remediation playbooks, and drafts post-incident reports.
@@ -444,7 +444,7 @@ Reduced downtime and improved operational resilience.
 **Data & Tech**  
 Monitoring telemetry, incident logs, operational runbooks, LLM for report drafting.
 
-##### Trade Finance Agent (Document Automation + Fraud Detection)
+### **Trade Finance Agent (Document Automation + Fraud Detection)**
 
 **Description**  
 Agent supports trade finance processing, verifies documents (e.g., bills of lading, invoices), detects anomalies, and suggests compliance actions.
@@ -458,7 +458,7 @@ Faster processing times and reduced fraud in trade flows.
 **Data & Tech**  
 Trade documents, SWIFT/MT messages, OCR systems, graph analytics, LLM fine-tuned for trade finance domain.
 
-##### Invoice & AP Automation Agent (Bank’s Corporate Clients)
+### **Invoice & AP Automation Agent (Bank’s Corporate Clients)**
 
 **Description**  
 Agent provides automated accounts payable/receivable reconciliation and cash application as a service for corporate customers.
@@ -472,7 +472,7 @@ New fee revenue streams and stronger corporate banking relationships.
 **Data & Tech**  
 Customer invoicing systems, payment feeds, ERP connectors, LLM integrated with RPA automation.
 
-##### Automated Contract Generation & Management Agent
+### **Automated Contract Generation & Management Agent**
 
 **Description**  
 Agent generates, reviews, and updates client and vendor contracts based on transaction history, regulatory updates, and risk exposures; flags anomalies and automates clause adjustments.
@@ -486,7 +486,7 @@ Reduced manual review effort, faster contract cycles, and lower operational risk
 **Data & Tech**  
 Contract database, document OCR, LLM for clause synthesis, rules engine.
 
-##### Intelligent Loan Servicing Agent
+### **Intelligent Loan Servicing Agent**
 
 **Description**  
 Agent continuously monitors loan portfolios, payment patterns, and borrower data; sends proactive reminders, generates statements, and alerts on likely defaults or restructuring needs.
@@ -500,9 +500,9 @@ Higher payment compliance, improved collections, and reduced delinquency inciden
 **Data & Tech**  
 Loan data, payment history, predictive analytics, LLM-based notification and alerting system.
 
-#### Finance, HR & IT
+## Finance, HR & IT
 
-##### Treasury & ALM Strategic Agent
+### **Treasury & ALM Strategic Agent**
 
 **Description**  
 Agent simulates liquidity scenarios, suggests investment and tactical funding decisions, and prepares board-level narrative reports.
@@ -516,7 +516,7 @@ Better liquidity optimization and lower funding costs.
 **Data & Tech**  
 ALM models, cash-flow matrices, market curves, LLM for narrative reports and scenario generation.
 
-##### Automated Financial Close Agent (FP&A Assistant)
+### **Automated Financial Close Agent (FP&A Assistant)**
 
 **Description**  
 Agent compiles narrative commentary for monthly or quarterly close, explains variances, and prepares earnings script drafts.
@@ -530,7 +530,7 @@ Faster close cycles and reduced finance headcount burden.
 **Data & Tech**  
 ERP and GL data, financial models, LLM templates, auditing and versioning systems.
 
-##### IT Dev Productivity Agent (Code Generation & Ops)
+### **IT Dev Productivity Agent (Code Generation & Ops)**
 
 **Description**  
 Developer assistant that generates boilerplate code, creates infrastructure-as-code templates, triages tickets, and drafts runbooks. Some banks report up to 40% improvement in developer productivity.
@@ -544,7 +544,7 @@ Faster delivery, reduced time-to-market, and major engineering cost savings.
 **Data & Tech**  
 Source code repositories, CI/CD metadata, code pattern libraries, LLMs with safety/linters, integration into IDEs.
 
-##### HR Agent (Recruiting & Onboarding Automation)
+### **HR Agent (Recruiting & Onboarding Automation)**
 
 **Description**  
 Agent screens applicants, drafts interview questions, summarizes interviews, and guides new hires through onboarding tasks.
@@ -558,7 +558,7 @@ Faster hiring cycles and lower administrative costs.
 **Data & Tech**  
 Applicant tracking system data, interview transcripts, LLM with bias mitigation and fairness checks.
 
-##### Internal Knowledge Base & Search Agent
+### **Internal Knowledge Base & Search Agent**
 
 **Description**  
 Enterprise agent that answers procedural questions across IT, legal, and operations; summarizes policies; and routes complex queries to subject matter experts.
@@ -572,7 +572,7 @@ Significant time savings for employees and faster decision-making.
 **Data & Tech**  
 Document repositories, indexed knowledge graphs, retrieval-augmented generation (RAG), access controls, and analytics dashboards.
 
-##### AI-Powered Expense Management Agent
+### **AI-Powered Expense Management Agent**
 
 **Description**  
 Agent ingests expense claims, applies policy, checks receipts, auto-approves or flags claims for review, reconciles expenses with GL, and produces audit-ready logs.
@@ -586,7 +586,7 @@ Reduced reconciliation time and errors, lower fraud risk, and operational cost s
 **Data & Tech**  
 ERP data, receipt images, policy rules engine, LLM-based approval workflows.
 
-##### Dynamic Workforce Planning Agent
+### **Dynamic Workforce Planning Agent**
 
 **Description**  
 AI agent forecasts workforce needs by analyzing productivity metrics, skill gaps, hiring cycles, and project demand, recommending rebalancing or targeted training plans.
@@ -600,9 +600,9 @@ Enhanced workforce alignment, reduced over/under staffing, and higher HR product
 **Data & Tech**  
 HRIS data, productivity metrics, LLM for scenario modeling, integration with HR planning and analytics tools.
 
-#### Capital Markets & Investment Banking
+## Capital Markets & Investment Banking
 
-##### Deal Origination & Pitch Deck Agent
+### **Deal Origination & Pitch Deck Agent**
 
 **Description**  
 Agent analyzes market activity and client data to surface pitch ideas, draft pitch decks, and generate deal summaries for bankers and advisors.
@@ -616,7 +616,7 @@ Faster pitch production, higher deal hit rates, and improved banker productivity
 **Data & Tech**  
 Market data feeds, analyst research, CRM integration, and LLMs fine-tuned to firm-specific pitch templates.
 
-##### Research Summarization & Idea Generation Agent
+### **Research Summarization & Idea Generation Agent**
 
 **Description**  
 Agent reads earnings calls, filings, and news to produce concise research notes, extract signals, and generate trade ideas.
@@ -630,7 +630,7 @@ Analysts can cover more names and produce more output per head, speeding up cove
 **Data & Tech**  
 Newsfeeds, filings, transcripts, alternative data sources, LLM with retrieval-augmented generation (RAG) and fact-checking pipelines.
 
-##### Algorithmic Trading Strategy Agent (Idea Generator & Backtester)
+### **Algorithmic Trading Strategy Agent (Idea Generator & Backtester)**
 
 **Description**  
 Agent proposes quantitative strategy ideas, runs backtests, and drafts hypothesis writeups for quantitative teams to validate.
@@ -644,7 +644,7 @@ Accelerates R&D, fosters innovation, and potential alpha generation.
 **Data & Tech**  
 Tick and market data, backtesting infrastructure, ML/quant libraries, LLM for documentation and reasoning.
 
-##### Client Reporting Agent (PM / Institutional)
+### **Client Reporting Agent (PM / Institutional)**
 
 **Description**  
 Agent auto-prepares portfolio performance reports and plain-language summaries for institutional and high-value clients.
@@ -658,7 +658,7 @@ Reduced reporting costs and improved client communication quality.
 **Data & Tech**  
 Portfolio positions, performance data, benchmarks, LLM for narrative drafting and templating.
 
-##### Hyper-Personalized Investment Strategy Agent
+### **Hyper-Personalized Investment Strategy Agent**
 
 **Description**  
 Agent analyzes client profiles, preferences, and market conditions to autonomously construct and rebalance personalized investment strategies in real time; provides actionable insights and “what-if” scenario modeling.
@@ -672,7 +672,7 @@ Higher NPS, stronger client retention and growth, improved alpha generation.
 **Data & Tech**  
 Wealth management platforms, CRM data, market feeds, LLM with scenario generation capabilities, compliance and suitability guardrails.
 
-##### Trade Surveillance & Market Manipulation Detection Agent
+### **Trade Surveillance & Market Manipulation Detection Agent**
 
 **Description**  
 Autonomous agent monitors trading activity to flag anomalies and suspected market abuse, generates narrative explanations, and prepares evidence packets for compliance teams and regulators.
