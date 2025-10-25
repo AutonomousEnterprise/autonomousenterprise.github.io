@@ -1,6 +1,6 @@
 ---
 published: false
-date: 2025-11-15
+date: 2025-11-29
 title: "Reimagining the Bank with Agentic GenAI: High Value Use Cases"
 author: djankov
 ---
