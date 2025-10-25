@@ -41,9 +41,8 @@ It is both a compliance process and a customer experience journey.
 
 ### Participants
 
-|     |     |
+| Actor | Description |
 | --- | --- |
-| **Role** | **Description** |
 | Customer / Applicant | Individual (or business) applying for an account or service. Provides personal information and documentation. |
 | Front-office / Relationship Manager | Bank employee assisting the customer (branch, contact center, or digital onboarding support). |
 | Operations / Back-office Staff | Validate documents, perform data entry, and manage workflow. |
@@ -138,9 +137,8 @@ To create a seamless, fully digital KYC and onboarding journey that:
 
 ### Participants
 
-|     |     |
+| Actor | Description |
 | --- | --- |
-| **Actor** | **Description** |
 | Customer / Applicant | Individual accessing the bank’s web or mobile channel to open an account. Engages through an intelligent chatbot or voice interface. |
 | Virtual Banking Assistant (GenAI Chatbot) | Front-end conversational agent powered by LLMs. Guides customers through onboarding, collects data, explains policies, and answers questions. |
 | AI Orchestration Engine / Workflow Agent | Manages and sequences tasks between subsystems (document verification, screening, scoring, etc.). Operates as a digital process manager. |
