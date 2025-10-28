@@ -22,7 +22,7 @@ Across all domains, the trajectory is clear: agentic GenAI is progressing from i
 
 # Key Takeaways for C-Level Executives
 
-Most importantly, banks should view agentic GenAI not merely as a set of isolated use cases but as the backbone of rearchitecting their value chain. It is the enabler of autonomous value streams, where front-to-back processes are stitched together, decisions embedded in agents, human oversight maintained through guardrails rather than manual handoffs. Leaders must think of transformation at the level of value flow, not department.
+First and foremost, banks should view agentic GenAI not merely as a set of isolated use cases but as the backbone of rearchitecting their value chain. It is the enabler of autonomous value streams, where front-to-back processes are stitched together, decisions embedded in agents, human oversight maintained through guardrails rather than manual handoffs. Leaders must think of transformation at the level of value flow, not department.
 
 Further, data is strategic. Agentic systems require clean, real-time, integrated pipelines: customer transactional data; identity and profile; document imagery; market feeds; external risk sources; audit logs. Investments in foundational capabilities such as data platforms, identity verification, secure APIs, model governance, RAG systems, privacy, bias and explainability, cannot be deferred or their importance understated. Without those, agentic GenAI risks becoming brittle, risky, and noncompliant.
 
