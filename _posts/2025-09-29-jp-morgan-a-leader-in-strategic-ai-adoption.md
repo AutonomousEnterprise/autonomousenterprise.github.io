@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-11-01
 title: J.P. Morgan – A Leader in Strategic AI Adoption
 author: djankov
