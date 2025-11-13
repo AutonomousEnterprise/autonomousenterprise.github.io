@@ -4,7 +4,7 @@ date: 2025-11-15
 title: "Reimagining the Bank with Agentic GenAI: the KYC / Onboarding Process"
 author: djankov
 ---
-September 13, 2040.7:43am. A sales executive in Singapore, finishing breakfast, decides to open a new multi-currency account before her flight to Tokyo. She simply speaks aloud to her phone:
+September 13, 2040. 7:43am. A sales executive in Singapore, finishing breakfast, decides to open a new multi-currency account before her flight to Tokyo. She simply speaks aloud to her phone:
 
 _“Open an account at Zenith Bank for travel and investments.”_
 
