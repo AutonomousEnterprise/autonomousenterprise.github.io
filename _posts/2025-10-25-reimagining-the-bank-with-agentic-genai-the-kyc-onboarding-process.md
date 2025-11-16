@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-11-15
 title: "Reimagining the Bank with Agentic GenAI: the KYC / Onboarding Process"
 author: djankov
