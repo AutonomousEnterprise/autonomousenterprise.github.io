@@ -4,11 +4,7 @@ date: 2025-11-15
 title: "Reimagining the Bank with Agentic GenAI: the KYC / Onboarding Process"
 author: djankov
 ---
-September 13, 2040. 7:43am. A sales executive in Singapore, finishing breakfast, decides to open a new multi-currency account before her flight to Tokyo. She simply speaks aloud to her phone:
-
-_“Open an account at Zenith Bank for travel and investments.”_
-
-Within minutes, the digital assistant on her device negotiates directly with Zenith Bank’s autonomous onboarding agent. Her identity is verified, her regulatory risk assessed, her account approved, all before her coffee cools. There’s no branch, no form, no waiting. The process is transparent, auditable, and compliant across jurisdictions.
+September 13, 2040. 7:43am. A sales executive in Singapore, finishing breakfast, decides to open a new multi-currency account before her flight to Tokyo. She simply speaks aloud to her phone: _“Open an account at Zenith Bank for travel and investments.”_ Within minutes, the digital assistant on her device negotiates directly with Zenith Bank’s autonomous onboarding agent. Her identity is verified, her regulatory risk assessed, her account approved, all before her coffee cools. There’s no branch, no form, no waiting. The process is transparent, auditable, and compliant across jurisdictions.
 
 Behind this seamless experience lies a fundamentally different kind of enterprise. The bank’s value chain is no longer a series of siloed departments connected by workflows and checklists. Instead, it’s a dynamic network of agentic AI systems – autonomous software entities that perceive, reason, and act across the business. These agents coordinate identity verification, compliance screening, risk assessment, and customer communication, without human orchestration.
 
