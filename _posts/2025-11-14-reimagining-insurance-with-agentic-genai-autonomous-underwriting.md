@@ -4,8 +4,6 @@ date: 2025-12-13
 title: "Reimagining Insurance with Agentic GenAI: Autonomous Underwriting"
 author: djankov
 ---
-# The Insurance 2040 Vision: When Risk Thinks for Itself
-
 June 4, 2040. 8:16 a.m. A homeowner in Toronto receives a message from her digital home concierge: a recent hailstorm has slightly damaged her roof. The system automatically assesses the extent of the damage using satellite imagery, predicts repair costs, and notifies her insurer.
 
 Before she finishes her morning coffee, her insurer’s autonomous underwriting network has already recalculated her property’s updated risk exposure, repriced her coverage dynamically, and reissued a revised policy. No forms, no calls, no waiting.
