@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-12-13
 title: "Reimagining Insurance with Agentic GenAI: Autonomous Underwriting"
 author: djankov
