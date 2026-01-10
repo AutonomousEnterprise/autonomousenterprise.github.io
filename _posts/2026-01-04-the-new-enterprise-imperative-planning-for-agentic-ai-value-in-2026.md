@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-01-10
 title: "The New Enterprise Imperative: Planning for Agentic AI Value in 2026"
 author: djankov
