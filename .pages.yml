@@ -20,14 +20,14 @@ content:
       - name: author
         label: Author
         type: string
-      - name: body
-        label: Body
-        type: rich-text
       - name: tags
         label: Tags
         type: string
         list:
           collapsible: false
+      - name: body
+        label: Body
+        type: rich-text
   - name: about
     label: About page
     path: about.markdown
