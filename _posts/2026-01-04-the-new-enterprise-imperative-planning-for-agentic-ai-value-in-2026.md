@@ -3,6 +3,8 @@ published: true
 date: 2026-01-10
 title: "The New Enterprise Imperative: Planning for Agentic AI Value in 2026"
 author: djankov
+tags:
+  - business strategy
 ---
 By the end of 2025, a clear trend is emerging: enterprises are no longer merely experimenting with artificial intelligence; they are integrating it into core operations and beginning to realize measurable benefits. According to a recent report, corporate usage of AI tools has grown dramatically, with companies like Micron Technology reporting substantial productivity gains and large swaths of the Fortune 500 adopting AI-based programming assistants. This shift reflects the broader movement away from isolated pilots toward enterprise-wide value creation, setting the stage for 2026 as a watershed year in the adoption of agentic artificial intelligence.
 
