@@ -23,6 +23,11 @@ content:
       - name: body
         label: Body
         type: rich-text
+      - name: tags
+        label: Tags
+        type: string
+        list:
+          collapsible: false
   - name: about
     label: About page
     path: about.markdown
