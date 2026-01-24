@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-01-24
 title: "Architecting the Enterprise for Agentic AI: Platforms and Orchestration
   Foundations"
