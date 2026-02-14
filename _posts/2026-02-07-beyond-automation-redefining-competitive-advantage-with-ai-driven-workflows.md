@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-02-14
 title: "Beyond Automation: Redefining Competitive Advantage with AI-Driven Workflows"
 author: djankov
