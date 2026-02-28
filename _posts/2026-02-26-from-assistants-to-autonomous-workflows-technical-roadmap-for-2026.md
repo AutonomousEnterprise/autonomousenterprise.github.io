@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-02-28
 title: "From Assistants to Autonomous Workflows: Technical Roadmap for 2026"
 author: djankov
@@ -56,7 +56,7 @@ The move to autonomous workflows reshapes the IT function itself. AI becomes an 
 
 Data engineering and application development converge around streaming architectures and tightly integrated orchestration engines. Security evolves from periodic review to continuous runtime enforcement, embedding compliance directly into workflows. Product management shifts toward outcome-based metrics such as cycle time reduction and error rates rather than feature adoption alone.
 
-Talent strategies adjust accordingly. Enterprises require engineers fluent in distributed systems, model behavior, and domain logic, alongside governance specialists who bridge regulation and AI architecture. In this model, CIOs and CTOs orchestrate intelligent value chains rather than discrete technology stacks.
+Talent strategies adjust accordingly. Enterprises require engineers fluent in distributed systems, model behavior, and domain logic, alongside governance specialists who bridge regulation and AI architecture. In this model, CIO's job is to orchestrate intelligent value chains rather than manage discrete technology stacks.
 
 **The 2026 Imperative**
 
