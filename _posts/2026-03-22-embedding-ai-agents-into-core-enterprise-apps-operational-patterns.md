@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-03-28
 title: "Embedding AI Agents into Core Enterprise Apps: Operational Patterns"
 author: djankov
