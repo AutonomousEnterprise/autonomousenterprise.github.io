@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-04-25
 title: Data & Real-Time Pipelines for Autonomous Action
 author: djankov
