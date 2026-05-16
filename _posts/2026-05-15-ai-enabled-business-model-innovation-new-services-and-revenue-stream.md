@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-05-16
 title: "AI-Enabled Business Model Innovation: New Services and Revenue Stream"
 author: djankov
