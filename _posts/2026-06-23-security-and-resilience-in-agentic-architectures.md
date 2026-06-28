@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-06-27
 title: Security and Resilience in Agentic Architectures
 author: djankov
