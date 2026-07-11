@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-07-11
 title: Risk, Trust, and Reputation in the Age of Autonomous Systems
 author: djankov
