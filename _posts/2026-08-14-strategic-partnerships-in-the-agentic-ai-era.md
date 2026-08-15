@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-08-15
 title: Strategic Partnerships in the Agentic AI Era
 author: djankov
