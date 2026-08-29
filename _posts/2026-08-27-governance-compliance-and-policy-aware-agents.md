@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2026-08-29
 title: Governance, Compliance, and Policy-Aware Agents
 author: djankov
