@@ -25,6 +25,18 @@ layout: default
         </span>
       {%- endif -%}
     </p>
+    {%- assign cover_path = page.image.path | default: '' | strip -%}
+    {%- if cover_path != '' %}
+    <figure class="post-cover">
+      <img
+        src="{{ cover_path | absolute_url | escape }}"
+        alt="{{ page.image.alt | default: '' | escape }}"{% if page.image.width and page.image.height %}
+        width="{{ page.image.width | escape }}"
+        height="{{ page.image.height | escape }}"{% endif %}
+        style="width: 100%; height: auto"
+        decoding="async">
+    </figure>
+    {%- endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

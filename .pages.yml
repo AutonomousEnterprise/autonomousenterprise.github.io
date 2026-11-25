@@ -25,6 +25,19 @@ content:
         type: string
         list:
           collapsible: false
+      - name: image
+        label: Article cover (optional)
+        type: object
+        fields:
+          - name: path
+            label: Cover image
+            type: image
+            required: true
+          - name: alt
+            label: Cover alt text
+            type: string
+            required: true
+            description: Briefly describe what the image shows. Avoid double quotation marks.
       - name: body
         label: Body
         type: rich-text
