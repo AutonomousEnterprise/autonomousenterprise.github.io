@@ -7,6 +7,7 @@ tags:
   - business strategy
 description: "Where a bank can specify what counts as sufficient evidence, it can retire repeat reviews. Where evidence conflicts, a banker still has a decision to make."
 excerpt: "Where a bank can specify what counts as sufficient evidence, it can retire repeat reviews. Where evidence conflicts, a banker still has a decision to make."
+homepage_excerpt: "One of the key opportunities in bank onboarding is deciding which reviews the bank can retire and which it must keep. When management can specify in advance what evidence is sufficient to advance an application, asking an employee to reach the same conclusion on every file adds cost and delay. When the evidence supports more than one interpretation, the bank needs someone with the authority to resolve it. A sound delegation policy lets the agent prepare the case, moves routine applications faster, and reserves experienced bankers’ time for decisions that warrant it."
 image:
   path: /media/what-can-a-canadian-banks-agent-do-on-its-own-cover.jpg
   alt: "An application folder sits between a stack of cleared files and a banker comparing two records."

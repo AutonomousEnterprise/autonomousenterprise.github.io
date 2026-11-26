@@ -37,7 +37,11 @@ layout: default
         </h3>
 
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {%- if post.homepage_excerpt and post.homepage_excerpt != empty -%}
+            <p>{{ post.homepage_excerpt | escape }}</p>
+          {%- else -%}
+            {{ post.excerpt }}
+          {%- endif -%}
         {%- endif -%}
       </li>
       {%- endfor -%}
