@@ -31,6 +31,11 @@ google_analytics: G-Z4T8NK0JQ1
 
 # Build settings
 theme: minima
+header_pages:
+  - about.markdown
+  - tags.markdown
+  - privacy.md
+  - terms.md
 plugins:
   - jekyll-feed
   - jekyll-sitemap
